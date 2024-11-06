@@ -1,0 +1,4 @@
+rich
+click
+spotipy
+python-dotenv
